@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://twitter.com/ashtrobuff" target="_blank">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/dawsonbotsford?style=social">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ashtrobuff?style=social">
   </a>
   <br/>
 </p>
