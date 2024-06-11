@@ -1,7 +1,7 @@
 ![Ashtrobuff](https://github.com/Ashtrobuff/Ashtrobuff/blob/160a6022b9ed79e2cdb00dc716d3d47ea62351fc/output-onlinetools%20(2).png)
 
 <p align="center">
- indie-dev currently exploring Native development dungeons!
+   I am Ashish Patil an indie-dev currently exploring Native development dungeons!
 </p>
 
 <p align="center">
