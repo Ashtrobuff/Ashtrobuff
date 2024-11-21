@@ -1,4 +1,4 @@
-![Ashtrobuff](https://github.com/Ashtrobuff/Ashtrobuff/blob/160a6022b9ed79e2cdb00dc716d3d47ea62351fc/output-onlinetools%20(2).png)
+![Ashtrobuff](https://github.com/user-attachments/assets/6724ec7b-e699-4fce-9c78-ca1805916da5)
 
 <p align="center">
    I am Ashish Patil an indie-dev currently exploring Native development dungeons!
