@@ -1,5 +1,6 @@
-<!---![Ashtrobuff](https://github.com/user-attachments/assets/6724ec7b-e699-4fce-9c78-ca1805916da5)--->
-<img  width="100" height="100"  style="border-radius: 50%; vertical-align: middle; margin-right: 10px;" src=https://github.com/user-attachments/assets/b7963a09-1516-4834-9aac-5a1f21c27a73>
+![Ashtrobuff](https://github.com/user-attachments/assets/6724ec7b-e699-4fce-9c78-ca1805916da5)
+<!---<span style="text-center, align-items-center"><img  width="100" height="100"  style="border-radius: 50%; vertical-align: middle; margin-right: 10px;" src=https://github.com/user-attachments/assets/b7963a09-1516-4834-9aac-5a1f21c27a73></span>--->
+
 <h1 align="center">Hi, I'm Ashish 👋</h1>
 
 <p align="center">
@@ -26,13 +27,19 @@ Currently building tools that simplify development workflows and enhance native 
 ---
 
 ### ⚙️ Tech Stack
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/-Swift-orange?style=flat-square&logo=swift" /></td>
+    <td><img src="https://img.shields.io/badge/-iOS-black?style=flat-square&logo=apple" /></td>
+    <td><img src="https://img.shields.io/badge/-Xcode-blue?style=flat-square&logo=xcode" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/-SwiftUI-lightgrey?style=flat-square&logo=swift" /></td>
+    <td><img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" /></td>
+    <td><img src="https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js" /></td>
+  </tr>
+</table>
 
-![Swift](https://img.shields.io/badge/-Swift-orange?style=flat-square&logo=swift)  
-![iOS](https://img.shields.io/badge/-iOS-black?style=flat-square&logo=apple)  
-![Xcode](https://img.shields.io/badge/-Xcode-blue?style=flat-square&logo=xcode)  
-![SwiftUI](https://img.shields.io/badge/-SwiftUI-lightgrey?style=flat-square&logo=swift)  
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)  
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
 
 ---
 
