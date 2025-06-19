@@ -11,15 +11,18 @@
 
 ### 📱 Apps on the App Store
 
-<img  width=100 height=100 src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/f9/88/1ef98840-ae16-7b70-d16e-dc4fa36bc29f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png">
+<img width="100" alt="Screenshot 2025-06-20 at 5 08 27 AM" src="https://github.com/user-attachments/assets/b1e496ea-562b-4d56-a362-f8c1dc266d8a" />
 
 ###
+
 
 - 🔗 [**Testron** – Mobile API Client](https://apps.apple.com/us/app/testron/id6747257486)  
   A SwiftUI-based API tester for developers to debug endpoints right from their iPhone.  
   `GET`, `POST`, `PUT`, `DELETE` + request history + SwiftData persistence.
 
-<img  width=100 height=100 src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/48/ce/1e48ce45-7e9f-dbf5-b474-c914b50541ee/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/1024x1024bb.png">
+
+
+<img width="100" alt="Screenshot 2025-06-20 at 5 10 11 AM" src="https://github.com/user-attachments/assets/cb3d28fb-18db-41db-869f-8fee24ab8a5a" />
 
 
 - 🔗 [**NoteAlign** – Guitar Tuner for Musicians](https://lnkd.in/ep8ExE82)  
