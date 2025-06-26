@@ -60,6 +60,8 @@ Currently building tools that simplify development workflows and enhance native 
 
 ---
 
+![](https://komarev.com/ghpvc/?username=Ashtrobuff)
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Currently%20shipping%20apps%20%F0%9F%9A%80;Swift%20first%2C%20always.;Exploring%20real-time%20audio%20processing!" />
 </p>
